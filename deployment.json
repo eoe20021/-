@@ -3,5 +3,8 @@
   "source": "검증된 정적 열람본",
   "repository": "eoe20021/-",
   "branch": "site-preview",
-  "contains_live_user_data": false
+  "contains_live_user_data": false,
+  "signup_revision": "2026-11-12",
+  "signup": "이름·휴대폰·비밀번호·본인 성향·성매매 금지 필수 확인",
+  "tc_amount_krw": 90000
 }
