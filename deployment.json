@@ -6,5 +6,8 @@
   "contains_live_user_data": false,
   "signup_revision": "2026-11-12",
   "signup": "이름·휴대폰·비밀번호·본인 성향·성매매 금지 필수 확인",
+  "business_signup": "사업자등록증·유흥주점 영업허가증·카드 연동 준비·성매매 금지 필수 확인",
+  "hire_payment": "채용 확정 시 TC 90,000원, 근무 완료 전 취소 시 동일 금액 포인트 적립 정책 초안",
+  "payment_provider_connected": false,
   "tc_amount_krw": 90000
 }
